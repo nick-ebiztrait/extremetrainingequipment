@@ -1,0 +1,126 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "collapsible_content_kiVJM3": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_LykfFk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I purchase in-person?",
+            "icon": "none",
+            "row_content": "<p>Yes, you do not need to order online. You can walk in any location and purchase in-person. Please call the location to confirm stock.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_DJrJ8D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When can I expect my order to be ready for pickup?",
+            "icon": "none",
+            "row_content": "<p>Please allow 7-10 business days for us to process your order for store pickup at all locations except Commerce. Orders for pick up at Commerce are processed in 2-3 business days. We transfer orders from our main warehouse to our other locations. You will be contacted via email or phone call once your order is ready for pickup.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CehHyb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When can I expect my order to ship?",
+            "icon": "none",
+            "row_content": "<p>Please allow 7-10 business days to process smaller FedEx/UPS packages. Please allow 7-14 business days to process larger orders that ship LTL freight.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wNfCUH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will my order freight order be delivered inside?",
+            "icon": "none",
+            "row_content": "<p>No, all freight orders are curbside delivery only. No inside deliveries.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JJtCGM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need to be present to receive my freight delivery?",
+            "icon": "none",
+            "row_content": "<p>An adult must be present to accept and sign for a freight delivery. Freight orders are shipped with appointment delivery. The freight company will contact you in advance to set a delivery date.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4JWzYM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I cancel my order?",
+            "icon": "none",
+            "row_content": "<p>We offer store credit only or exchange for any cancelled order.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_aX4hDr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I add to my order if it has not shipped yet?",
+            "icon": "none",
+            "row_content": "<p>Yes, please send us a email if you want to adjust your order. Shipping charges are subject to change depending on the equipment size and weight.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9xPUKR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does my equipment come with warranty?",
+            "icon": "none",
+            "row_content": "<p>Yes, 30 days warranty for all products unless otherwise stated. Steel frames, cables, parts, and pads have a lifetime warranty. Paint/power coating is not warrantied.  Barbells have a 1 year manufacturer defect warranty. Weights (dumbbells, kettlebells, plates) have a 90 day manufacturer defect warranty. Warranty is void if equipment is not properly used or maintained. </p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_LykfFk",
+        "collapsible_row_DJrJ8D",
+        "collapsible_row_CehHyb",
+        "collapsible_row_wNfCUH",
+        "collapsible_row_JJtCGM",
+        "collapsible_row_4JWzYM",
+        "collapsible_row_aX4hDr",
+        "collapsible_row_9xPUKR"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_kiVJM3"
+  ]
+}

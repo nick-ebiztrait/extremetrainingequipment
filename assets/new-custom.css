@@ -1,0 +1,111 @@
+.custom-grides .grid__item .action-from form {
+  display: block !important;
+}
+.card__information.custom-information {
+  grid-row-start: 1;
+}
+.custom-grides .action-from button {
+  padding: 14px 3px;
+}
+.card-information.custom0prpr
+  .price__container
+  .price__sale
+  .price-item.price-item--regular {
+  display: none;
+}
+/* designig product sr */
+ul.sr-pro li {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+ul.sr-pro .card__information.custom-information {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+ul.sr-pro .card.card--standard.card--media {
+  flex-direction: inherit;
+  align-items: center;
+  width: 100%;
+}
+ul.sr-pro .full-unstyled-link:hover {
+  color: #000;
+}
+ul.sr-pro {
+  row-gap: 0px;
+}
+ul.sr-pro .price {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu,
+    Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol;
+}
+ul.sr-pro .card__heading {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu,
+    Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol;
+}
+ul.sr-pro .card-wrapper.product-card-wrapper.underline-links-hover {
+  display: flex;
+  flex-wrap: wrap;
+}
+ul.sr-pro.custom-grides .action-from button {
+  padding: 10px 20px;
+  font-size: 14px;
+  line-height: 14px !important;
+  background: #000;
+  color: #fff;
+  min-height: inherit !important;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu,
+    Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol;
+  font-weight: 700;
+}
+.sr-pro-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px !important;
+}
+ul.sr-pro .card__inner {
+  width: 25%;
+}
+/* .varainf-info .product-form__input{
+  display: flex;
+    gap: 10px;
+    padding-top: 12px;
+} */
+@media (max-width: 768px) {
+  .sr-pro-btn {
+    flex-wrap: wrap;
+  }
+  .sr-pro-btn .quick-add {
+    order: 2;
+  }
+
+  ul.sr-pro .card__inner {
+    width: 55%;
+  }
+
+  ul.sr-pro .price,
+  ul.sr-pro .card__heading {
+    font-size: 15px;
+  }
+}
+.slideshow .full-page-link {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.card--standard > .card__content span.price-item.price-item--sale {
+  font-size: 16px;
+  letter-spacing: normal;
+}
+
+.product-form__input .select select {
+  font-size: 14px;
+  color: #000;
+}

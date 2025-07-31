@@ -1,0 +1,715 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_HmJprR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hKB36U": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2._1920_X_849_website_banner.jpg",
+            "mobile_image": "shopify://shop_images/1._1000_X_1600_website_mobile.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP SALE",
+            "link": "shopify://collections/black-friday-sale-extra-savings",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Rm4YNG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Option_77_Series_Combo1920x849.jpg",
+            "mobile_image": "shopify://shop_images/Option_77_Series_Combo1000x1600_A.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "PRE ORDER NOW",
+            "link": "shopify://products/combo-machines-7-package-deal",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_rfX4aA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/3b39babb-e322-49e6-a0cc-ee9fc7d54a0f.jpg",
+            "mobile_image": "shopify://shop_images/fbcd8b48-a266-4389-83fc-47ecffab7f6e.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "PRE ORDER",
+            "link": "shopify://products/all-in-1-half-rack-with-functional-trainer",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_k7KCfe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/rolled_flooring_banner.png",
+            "mobile_image": "shopify://shop_images/mobile_1000_x_1600_px_3.png",
+            "heading": "Gym Flooring",
+            "heading_size": "h1",
+            "subheading": "Rolled Rubber & Mats",
+            "button_label": "Shop Flooring",
+            "link": "shopify://collections/flooring",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_TRGEcJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner.png",
+            "mobile_image": "shopify://shop_images/Mobile-banner-1_4.jpg",
+            "heading": "Extreme Training Equipment",
+            "heading_size": "h1",
+            "subheading": "Build your dream gym today.",
+            "button_label": "SHOP NOW",
+            "link": "shopify://collections/black-friday-sale-extra-savings",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hKB36U",
+        "slide_Rm4YNG",
+        "slide_rfX4aA",
+        "slide_k7KCfe",
+        "slide_TRGEcJ"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "image_banner_dhn7HE": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8xzz9B": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Lifetime warranty: cable machine frames, cables & parts.</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_pY7tVX": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_R38Rpk": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8xzz9B",
+        "text_pY7tVX",
+        "buttons_R38Rpk"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/website_banner_machine_warranty_1800_x_1000_px.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "collection_list_BDHWma": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_6Cb7zt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "racks-rigs"
+          }
+        },
+        "featured_collection_aLjp4B": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "leg-press"
+          }
+        },
+        "featured_collection_4QkJi6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cable-machines"
+          }
+        },
+        "featured_collection_W7GFFR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "storage"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_6Cb7zt",
+        "featured_collection_aLjp4B",
+        "featured_collection_4QkJi6",
+        "featured_collection_W7GFFR"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "SHOP BY COLLECTIONS",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 32
+      }
+    },
+    "collection_slider_yMrwAj": {
+      "type": "collection-slider",
+      "blocks": {
+        "featured_collection_7VdjRg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "power-rack-with-cable-system",
+            "ctm_image": "shopify://shop_images/power_rack_functional_trainer_380_x_380_3.png"
+          }
+        },
+        "featured_collection_zDnUDm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "multi-station-machines",
+            "ctm_image": "shopify://shop_images/multi_stations_banner_380_x_380.png"
+          }
+        },
+        "featured_collection_K3KCL6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "leg-press",
+            "ctm_image": "shopify://shop_images/power_rack_functional_trainer_380_x_380_f6ceb8c9-3246-4010-afae-883fa57deab0.png"
+          }
+        },
+        "featured_collection_mL4i6D": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "flooring",
+            "ctm_image": "shopify://shop_images/Untitled_design_11.png"
+          }
+        },
+        "featured_collection_A84p9c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "combo-machines",
+            "ctm_image": "shopify://shop_images/power_rack_functional_trainer_380_x_380_1_a0518223-0a85-4f4d-b800-5dea3f9d126e.png"
+          }
+        },
+        "featured_collection_Nbxkim": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "plate-loaded",
+            "ctm_image": "shopify://shop_images/power_rack_functional_trainer_380_x_380_2_58db3195-4bb6-4deb-80e0-f5e9e0036895.png"
+          }
+        },
+        "featured_collection_PMniMa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "storage",
+            "ctm_image": "shopify://shop_images/Equipment_Storage.jpg"
+          }
+        },
+        "featured_collection_krPiaM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "full-power-racks",
+            "ctm_image": "shopify://shop_images/power_rack_functional_trainer_380_x_380_1.png"
+          }
+        },
+        "featured_collection_iQJcPV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cable-machines",
+            "ctm_image": "shopify://shop_images/Cable_Machine.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_7VdjRg",
+        "featured_collection_zDnUDm",
+        "featured_collection_K3KCL6",
+        "featured_collection_mL4i6D",
+        "featured_collection_A84p9c",
+        "featured_collection_Nbxkim",
+        "featured_collection_PMniMa",
+        "featured_collection_krPiaM",
+        "featured_collection_iQJcPV"
+      ],
+      "settings": {
+        "title": "Build your dream gym",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "custom_collage_UtVUHt": {
+      "type": "Custom-collage",
+      "blocks": {
+        "collection_6bFCap": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify://shop_images/782_x_752_web_banner_for_10_machines.png",
+            "collection_title": "Package Deals",
+            "collection": "packages"
+          }
+        },
+        "collection_rC9w7w": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify://shop_images/RACKS.jpg",
+            "collection_title": "Weights",
+            "collection": "free-weights"
+          }
+        },
+        "collection_kJFGX7": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify://shop_images/website_banners_378_x_358.png",
+            "collection_title": "Benches",
+            "collection": "adjustable-benches"
+          }
+        },
+        "collection_EMNrgp": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify://shop_images/Untitled_design_11_186bd6ab-ab3c-49ff-bf3b-aec8202636b0.png",
+            "collection_title": "Cable + Smith Machines",
+            "collection": "functional-trainer"
+          }
+        }
+      },
+      "block_order": [
+        "collection_6bFCap",
+        "collection_rC9w7w",
+        "collection_kJFGX7",
+        "collection_EMNrgp"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-2",
+        "padding_top": 72,
+        "padding_bottom": 100
+      }
+    },
+    "collage_JfMU7j": {
+      "type": "collage",
+      "blocks": {
+        "image_rQkfVe": {
+          "type": "image",
+          "settings": {}
+        },
+        "product_AmaJXm": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_4nF3nV": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rQkfVe",
+        "product_AmaJXm",
+        "collection_4nF3nV"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_HmHNtD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BWPHfM": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Cardio",
+            "heading_size": "h0"
+          }
+        },
+        "text_BCTtWH": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Crush your cardio goals.",
+            "text_style": "body"
+          }
+        },
+        "buttons_z9AUKX": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/cardio",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BWPHfM",
+        "text_BCTtWH",
+        "buttons_z9AUKX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/cardio_banner_new_theme_1_e20bab5e-7d33-43f6-9d1b-d1542b9817a8.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Equipment",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "new-equipment",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 100
+      }
+    },
+    "image_banner_bKnCRP": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8fFXBe": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "EQUIPMENT",
+            "heading_size": "h0"
+          }
+        },
+        "text_VCt8GT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "STORAGE",
+            "text_style": "body"
+          }
+        },
+        "buttons_qAUnRd": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/storage",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8fFXBe",
+        "text_VCt8GT",
+        "buttons_qAUnRd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/EQUIPMENT_STORAGE_3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_h3geJG": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Functional Trainer",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "functional-trainer-smith-machines",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_8Qdjip": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_g9BhfU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SAN_DIEGO_CA_2098_Harvest_Rd_G551-G552-102_San_Diego_CA_92154_PH_805-261-0594_6335670f-edde-4ded-86de-dba173611133.png",
+            "title": "",
+            "text": "<p class=\"Store-name\"><strong>Commerce, CA <br>(Main Warehouse/Fulfillment Center) </strong></p><p class=\"Address\"><strong>2943 Supply Ave<br>Commerce, CA 90040</strong></p><p class=\"Contact\"><strong>Call Us: 562-367-4044<br>Text 805-990-8437</strong></p><p class=\"Timing\"><strong>**Regular Hours**</strong><br><span>Mon-Fri:9:00am-5:00pm<br>Sat: 9:00am-2:00pm<br>Sun: Closed</span>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_A9FnKE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FOUNTAIN_VALLEY_1_a9654a2c-f6c7-4725-8b38-4daa780061ec.jpg",
+            "title": "",
+            "text": "<p class=\"Store-name\">Fountain Valley, CA </p><p class=\"Address\">11065 Condor Ave<br>Fountain Valley, CA 92708</p><p class=\"Contact\">Call Us: (714) 892-7555</p><p class=\"Timing\">**Regular Hours**<br><span>Mon-Fri:9:00am-5:00pm<br>Sat: 9:00am-2:00pm<br>Sun: Closed.</span></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4m3WCt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SIMI_VALLEY_1_ce604f35-e2b8-41b2-b7f8-23635205fddb.jpg",
+            "title": "",
+            "text": "<p class=\"Store-name\">Simi Valley, CA </p><p class=\"Address\">865 Cochran St.<br>Unit 17 Simi Valley, CA 93065</p><p class=\"Contact\">Call Us: 805-261-0594</p><p class=\"Timing\">**Regular Hours**<br><span>Mon-Fri:9:00am-5:00pm<br>Sat: 9:00am-2:00pm<br>Sun: Closed.</span></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_n4inq6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ONTARIO_location_2fbcc6b5-8d40-4cfd-b990-f7a0be77717c.jpg",
+            "title": "",
+            "text": "<p class=\"Store-name\">Ontario, CA</p><p class=\"Address\">1609 S Grove Ave, #101-102<br>Ontario, CA 91761</p><p class=\"Address\">Call Us: (909) 443-5083</p><p class=\"Timing\">**Regular Hours**<br><span>Mon-Fri:9:00am-5:00pm<br>Sat: 9:00am-2:00pm<br>Sun: Closed.</span></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rNBHbX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GREENSBORO_1_98aed08f-90a9-40aa-afa4-ab0ca5c969e3.jpg",
+            "title": "",
+            "text": "<p class=\"Store-name\">Greensboro, North Carolina </p><p class=\"Address\">111 S Walnut Circle<br>Greensboro, North Carolina 27409</p><p class=\"Contact\">Call Us: (336) 686-8780</p><p class=\" class=\" timing>**Regular Hours**<br><span>Mon-Fri:9:00am-5:00pm<br>Sat: 9:00am-2:00pm<br>Sun: Closed.</span></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Lc4qWA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CHARLOTTE_1_39406e0c-abdf-4e3d-acad-0c2cc6ba4d7f.jpg",
+            "title": "",
+            "text": "<p class=\"Store-name\">Charlotte, North Carolina </p><p class=\"Address\">2748 Interstate St, Unit C<br>Charlotte, North Carolina 28208</p><p class=\"Contact\">Call Us: (980) 987-8102</p><p class=\"Timing\">**Regular Hours**<br><span>Mon-Fri: 10:00am-5:00pm<br>Sat: 9:00am-2:00pm<br>Sun: Closed.</span></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DmJnqd": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Extreme_Training_Equipment_Virginia_Beach_c150ceb8-a585-4c67-bb24-07ded64ef35d.jpg",
+            "title": "",
+            "text": "<p class=\"Store-name\">Virginia Beach, VA</p><p class=\"Address\">3750 Virginia Beach Blvd, Unit 20F<br>Virginia Beach, VA 23452</p><p class=\"Contact\">Call Us: (757) 692-7380</p><p class=\"Timing\">**Regular Hours**<br><span>Mon-Sat: 10:00am-6:00pm<br></span></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_g9BhfU",
+        "column_A9FnKE",
+        "column_4m3WCt",
+        "column_n4inq6",
+        "column_rNBHbX",
+        "column_Lc4qWA",
+        "column_DmJnqd"
+      ],
+      "settings": {
+        "title": "Visit Us",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter_j48pA9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_CDKjht": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join The Community",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_P9hzn4": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
+          }
+        },
+        "email_form_miKgWM": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_CDKjht",
+        "paragraph_P9hzn4",
+        "email_form_miKgWM"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "slideshow_HmJprR",
+    "image_banner_dhn7HE",
+    "collection_list_BDHWma",
+    "collection_slider_yMrwAj",
+    "custom_collage_UtVUHt",
+    "collage_JfMU7j",
+    "image_banner_HmHNtD",
+    "featured_collection",
+    "image_banner_bKnCRP",
+    "featured_collection_h3geJG",
+    "multicolumn_8Qdjip",
+    "newsletter_j48pA9"
+  ]
+}

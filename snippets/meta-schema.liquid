@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {% for block in section.blocks %}
+            {% case block.type %}
+              {% when 'collapsible_row' %}
+                {
+                  "@type": "Question",
+                  "name": {{ block.settings.heading | json }},
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": {{ block.settings.row_content | json }}
+                  }
+                }{% unless forloop.last %},{% endunless %}
+            {% endcase %}
+          {% endfor %}
+        ]
+      }
+    </script>
