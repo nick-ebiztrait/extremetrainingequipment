@@ -15,13 +15,13 @@
         "slide_hKB36U": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/2._1920_X_849_website_banner.jpg",
-            "mobile_image": "shopify://shop_images/1._1000_X_1600_website_mobile.jpg",
+            "image": "shopify://shop_images/1920_X_849_website.png",
+            "mobile_image": "shopify://shop_images/1000_X_1600_mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "SHOP SALE",
-            "link": "shopify://collections/black-friday-sale-extra-savings",
+            "button_label": "",
+            "link": "",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
