@@ -382,6 +382,36 @@ var customimages = $(this).find("option:selected").attr('data-src');
 
   
 </script>
-    
+ <script>
+document.addEventListener('DOMContentLoaded', function () {
+  const requestBtn = document.querySelector('.request-code-btn');
+  const modal = document.getElementById('request-code-modal');
+  const closeBtn = modal.querySelector('.request-code-modal__close');
+  const overlay = modal.querySelector('.request-code-modal__overlay');
+  const productTitleField = document.getElementById('ProductTitleField');
+  const productSkuField = document.getElementById('ProductSkuField');
+  const productTitleSpan = document.getElementById('request-code-product-title');
+  const productSkuSpan = document.getElementById('request-code-product-sku');
+
+  if (requestBtn && modal) {
+    requestBtn.addEventListener('click', function () {
+      const title = this.dataset.productTitle;
+      const sku = this.dataset.productSku || 'N/A'; // fallback if no SKU
+
+      productTitleSpan.textContent = title;
+      productTitleField.value = title;
+
+      productSkuSpan.textContent = sku;
+      productSkuField.value = sku;
+
+      modal.classList.remove('hidden');
+    });
+
+    closeBtn.addEventListener('click', () => modal.classList.add('hidden'));
+    overlay.addEventListener('click', () => modal.classList.add('hidden'));
+  }
+});
+
+</script>     
   </body>
 </html>
