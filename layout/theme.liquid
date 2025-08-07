@@ -309,7 +309,7 @@
     </script>
 
 {{ 'new-custom.css' | asset_url | stylesheet_tag: preload: true }}
-    
+    {% render 'script' %}
   </head>
 
   <body class="{{ template }} gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
