@@ -154,7 +154,7 @@
               {{
                 block.settings.image
                 | image_url: width: 3840
-                | image_tag: loading: 'lazy', height: height, sizes: sizes, widths: widths
+                | image_tag: loading: 'lazy', height: height, sizes: sizes, widths: widths, class:'lazyload'
               }}
             {%- endif -%}
           {%- else -%}
@@ -169,7 +169,7 @@
 
         {%- if block.settings.mobile_image != blank -%}
           <div class="mobile_div">
-            {{ block.settings.mobile_image | img_url: 'original' | img_tag }}
+            {{ block.settings.mobile_image | img_url: 'original' | img_tag: class:'lazyload' }}
           </div>
         {%- endif -%}
 
