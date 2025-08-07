@@ -6,7 +6,8 @@
   Usage:
   {% render 'loading-spinner' %}
 {% endcomment %}
-
+<link rel="preload" href="{{'component-loading-spinner.css' | asset_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{'component-loading-spinner.css' | asset_url }}"></noscript>
 {{ 'component-loading-spinner.css' | asset_url | stylesheet_tag }}
 
 <div class="{% if class %}{{ class }}{% else %}loading__spinner hidden{% endif %}">
